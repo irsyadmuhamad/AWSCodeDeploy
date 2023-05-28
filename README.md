@@ -2,7 +2,7 @@
 <b>Automate Slack Notifications from AWS CodePipeline events</b>
 
 <b>Disclaimer:</b>
-- Skenario ini digunakan dengan catatan <b>sudah ada</b> CI/CD pipeline yang dibuat di <b>AWS CodePipeline</b>.
+- Skenario ini digunakan dengan catatan <b>sudah</b> ada CI/CD pipeline yang dibuat di <b>AWS CodePipeline</b>.
 - Jika <b>belum</b> memiliki CI/CD pipeline di AWS CodePipeline, silakan <b>di-create</b> terlebih dahulu, referensi untuk membuat CI/CD pipeline ada di [<b>AWS Docs</b>](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html).
 
 ## Setup a Slack workplace and channel
