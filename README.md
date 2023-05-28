@@ -1,5 +1,5 @@
-# Automate Slack Notifications from AWS CodePipeline using Amazon SNS and AWS Lambda
-<b>Automate Slack Notifications from AWS CodePipeline events</b>
+# Automate Slack Notifications from AWS CodePipeline events using Amazon SNS and AWS Lambda
+
 
 <b>Disclaimer:</b>
 - Skenario ini bisa digunakan dengan catatan <b>sudah</b> ada CI/CD pipeline yang dibuat di <b>AWS CodePipeline</b>.
