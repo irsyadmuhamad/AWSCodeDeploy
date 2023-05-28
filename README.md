@@ -1,4 +1,4 @@
-# Slack Notifications from AWS CodePipeline using Amazon SNS and AWS Lambda
+# Automate Slack Notifications from AWS CodePipeline using Amazon SNS and AWS Lambda
 <b>Automate Slack Notifications from AWS CodePipeline events</b>
 
 <b>Disclaimer:</b>
