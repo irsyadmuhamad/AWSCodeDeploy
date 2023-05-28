@@ -1,2 +1,2 @@
-# AWSCodeDeploy
-CI/CD pipeline from GitHub
+# AWS CodePipeline
+Building Slack Notifications for AWS CodePipeline
